@@ -1,4 +1,4 @@
-# pytorch_mini_project
+# Mini Projects
 
 This repository is a collection of small PyTorch experiments created for learning and practice.
 Each experiment focuses on understanding a specific concept such as data loading, model training, evaluation, and experimentation with neural networks using simple datasets.
